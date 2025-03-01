@@ -7,7 +7,7 @@
 | Django        | Advanced          | 2                  |
 | Vite + React  | Intermediate      | 2                  |
 | HTML/CSS      | Advanced          | 2                  |
-| SQL           | Intermediate      | 1                  |
+| POSTgresql    | Intermediate      | 1                  |
 | Git/GitHub    | Advanced          | 1                  |
 | Docker        | Beginner          | 1                  |
 | React-native  | Beginner          | 1                  |
