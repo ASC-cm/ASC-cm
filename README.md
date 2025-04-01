@@ -5,8 +5,10 @@
 | Skill         | Proficiency Level | Experience (Years) |
 | ------------- | ----------------- | ------------------ |
 | Django        | Advanced          | 2                  |
-| Vite + React  | Intermediate      | 2                  |
+| React + Vite  | Intermediate      | 2                  |
+| Next.js       | Advanced          | 2                  |
 | HTML/CSS      | Advanced          | 2                  |
+| Tailwind css  | Advanced          | 2                  |
 | POSTgresql    | Intermediate      | 1                  |
 | Git/GitHub    | Advanced          | 1                  |
 | Docker        | Beginner          | 1                  |
